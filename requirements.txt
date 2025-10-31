@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+datetime
+scikit-learn
+scipy
+cmfrec
+joblib
